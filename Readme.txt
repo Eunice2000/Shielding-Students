@@ -1,6 +1,2 @@
-Thanks for downloading this template!
-
-Template Name: Mamba
-Template URL: https://bootstrapmade.com/mamba-one-page-bootstrap-template-free/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Final year project on how to mitigate child sexual abuse
+by ADEDIRAN EUNICE
